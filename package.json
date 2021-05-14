@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:jakekelly44/tech-blog.git"
+        "url": "https://github.com/Studzic/jog_and_blog.git"
     },
-    "author": "Jake Kelly",
+    "author": "Austin Dudzic",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/jakekelly44/tech-blog/issues"
+        "url": "https://github.com/Studzic/jog_and_blog.git"
     },
-    "homepage": "https://github.com/jakekelly44/tech-blog#readme",
+    "homepage": "https://github.com/Studzic/jog_and_blog.git",
     "dependencies": {
         "bcrypt": "^5.0.0",
         "connect-session-sequelize": "^6.1.1",
