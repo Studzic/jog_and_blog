@@ -34,9 +34,9 @@ MIT License
 
 ## Documentation
 
-Live Deployed Application: [View Application](https://uabc-mvc-tech-blog.herokuapp.com/ "Live Deploy")      
 
-![Screenshot](doc/proof.png?raw=true "Proof of Application")      
+
+
 
 
 
